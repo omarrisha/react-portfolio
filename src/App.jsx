@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <main className="main">
+      OMAR RISHA
         <Home />
         <About />
         <Portfolio />
