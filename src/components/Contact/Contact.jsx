@@ -10,7 +10,7 @@ const Contact = () => {
           <h3 className="contact__title">
             Do you hate the difficulty in communicating? Try this form! 👇
           </h3>
-          <p className="contact__details">It is free and always will be!</p>
+          <p className="contact__details">It is free and always will be.</p>
         </div>
         <form
           className="contact__form"
