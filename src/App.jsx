@@ -1,5 +1,5 @@
 import "./App.css";
-import { Sidebar, Home, About, Portfolio, Contact } from "./components";
+import { Home, About, Portfolio, Contact } from "./components";
 
 function App() {
   return (
