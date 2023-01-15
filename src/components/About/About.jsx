@@ -1,7 +1,7 @@
 import "./About.css";
 import AboutAvatar from "../../assets/images/avatar-2.svg";
 import MainTec from "./MainTec.jsx";
-import CV from "../../omarrisha-cv.pdf";
+import CV from "../../../public/tabellarischer_Lebenslauf_omarrisha.pdf";
 
 const About = () => {
   return (
