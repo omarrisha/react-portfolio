@@ -14,11 +14,10 @@ const About = () => {
               I am a tenacious problem-solver who started recently his journey
               in programming through web development world. 👨‍💻
             </p>
-              <a href={CV} target="_blank" className="btn">
-                Download CV
-              </a>
+            <a href={CV} target="_blank" className="btn">
+              Download CV
+            </a>
           </div>
-
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
