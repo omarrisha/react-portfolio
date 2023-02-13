@@ -17,6 +17,9 @@ const About = () => {
             <a href={CV} target="_blank" className="btn">
               Download CV
             </a>
+            <a href={CV} target="_blank" className="btn">
+              Download CV
+            </a>
           </div>
 
           <div className="about__skills grid">
