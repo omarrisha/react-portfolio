@@ -11,8 +11,8 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am a tenacious problem-solver who started recently his journey
-              in programming through web development world. 👨‍💻
+              I'm a junior developer who started learning programming through
+              frontend web development. 👨‍💻
             </p>
             <a href={CV} target="_blank" className="btn">
               Download CV
