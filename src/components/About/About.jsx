@@ -14,9 +14,6 @@ const About = () => {
               I'm a junior developer who started learning programming through
               frontend web development. 👨‍💻
             </p>
-            <a href={CV} target="_blank" className="btn">
-              Download CV
-            </a>
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
